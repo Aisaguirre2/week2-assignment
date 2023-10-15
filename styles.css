@@ -2,16 +2,13 @@ body {
     background-color: pink;
 }
 
-main{
+main {
     background-color:yellow; 
     border-style: solid; 
     border-color:black; 
     border-radius: 5px;
 }
 
-p {
-    text-shadow: white 1px 1px;
-}
 
 img {
     border-radius: 50%;
